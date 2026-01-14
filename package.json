@@ -1,0 +1,26 @@
+{
+  "name": "adv-fullstack-68",
+  "version": "1.0.0",
+  "description": "Repository for Full Stack Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chawanwut001/adv-fullstack-68.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chawanwut001/adv-fullstack-68/issues"
+  },
+  "homepage": "https://github.com/Chawanwut001/adv-fullstack-68#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "prettier": "^3.7.4"
+  }
+}
